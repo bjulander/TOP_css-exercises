@@ -1,0 +1,13 @@
+.squareButton {
+    font-size: 28px;
+    font-family: Helvetica, 'Times New Roman', "sans-serif";
+}
+
+.numberOne {
+    color: white;
+    background-color: black;
+}
+
+.numberTwo {
+    background-color: yellow;
+}
